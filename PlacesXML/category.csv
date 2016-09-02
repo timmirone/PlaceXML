@@ -1,0 +1,12 @@
+CategoryID,PlaceID,CategorySystem,LanguageCode,CategoryText
+shop,784thrrd-ccb158afed0f46f6b1e895403b2bae84,find-places,,
+9567,784thrrd-ccb158afed0f46f6b1e895403b2bae84,poi,en,Specialty Store
+600-6900-0096,784thrrd-ccb158afed0f46f6b1e895403b2bae84,places-cat,en,Specialty Store
+shop,784thrre-dfa545713eb540cb9079f6b589efc8d4,find-places,,
+9567,784thrre-dfa545713eb540cb9079f6b589efc8d4,poi,en,Specialty Store
+600-6900-0000,784thrre-dfa545713eb540cb9079f6b589efc8d4,places-cat,en,Other Shop
+food-drink,784thx2m-0f20ac6176b64dec89cf23111d660807,find-places,,
+5400,784thx2m-0f20ac6176b64dec89cf23111d660807,poi,en,Grocery Store
+600-6300-0066,784thx2m-0f20ac6176b64dec89cf23111d660807,places-cat,en,Grocery
+Restaurant,784thrpp-ab8f18a1e93842c5856c31d5f062fb1d,find-places,,
+100-1000-0000,784thrpp-ab8f18a1e93842c5856c31d5f062fb1d,places-cat,en,Other Restaurant

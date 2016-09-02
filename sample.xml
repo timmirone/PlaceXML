@@ -1,0 +1,283 @@
+<PlaceList>
+    <Place>
+        <Identity>
+            <TimeStamp>2012-10-26T14:36:03.646Z</TimeStamp>
+            <PlaceId>784thrrd-ccb158afed0f46f6b1e895403b2bae84</PlaceId>
+        </Identity>
+        <LocationList>
+            <Location locationId="34588659">
+                <Address>
+                    <Parsed languageCode="en">
+                        <StreetName>
+                            <BaseName>Francisco Villa</BaseName>
+                            <StreetType before="true">Avenida</StreetType>
+                        </StreetName>
+                        <HouseNumber>N/A</HouseNumber>
+                        <CountryCode>USA</CountryCode>
+                        <Admin>
+                            <AdminLevel>
+                                <Level1>State</Level1>
+                                <Level2>County</Level2>
+                                <Level3>District</Level3>
+                                <Level4>City</Level4>
+                            </AdminLevel>
+                            <AdminName>
+                                <Level1>California</Level1>
+                                <Level2>Redlands</Level2>
+                                <Level3>San Bernardino</Level3>
+                            </AdminName>
+                        </Admin>
+                    </Parsed>
+                </Address>
+                <GeoPositionList>
+                    <GeoPosition>
+                        <Latitude>25.25418</Latitude>
+                        <Longitude>55.30372</Longitude>
+                    </GeoPosition>
+                </GeoPositionList>
+            </Location>
+        </LocationList>
+        <ContactList>
+            <Contact type="PHONE">
+                <ContactString>+97143553788</ContactString>
+            </Contact>
+        </ContactList>
+        <NameList>
+            <Name>
+                <TextList>
+                    <Text>
+                        <BaseText type="OFFICIAL" languageCode="en">Main Shop</BaseText>
+                    </Text>
+                </TextList>
+           </Name>
+        </NameList>
+        <CategoryList>
+            <Category categorySystem="find-places">
+                <CategoryId>shop</CategoryId>
+            </Category>
+            <Category categorySystem="poi">
+                <CategoryId>9567</CategoryId>
+                <CategoryName>
+                    <Text languageCode="en">Specialty Store</Text>
+                </CategoryName>
+            </Category>
+            <Category categorySystem="places-cat">
+                <CategoryId>600-6900-0096</CategoryId>
+                <CategoryName>
+                    <Text languageCode="en">Specialty Store</Text>
+                </CategoryName>
+            </Category>
+        </CategoryList>
+    </Place>
+    <Place>
+        <Identity>
+            <TimeStamp>2012-10-26T14:36:43.634Z</TimeStamp>
+            <PlaceId>784thrre-dfa545713eb540cb9079f6b589efc8d4</PlaceId>
+        </Identity>
+        <LocationList>
+            <Location locationId="34588432">
+                <Address>
+                    <Parsed languageCode="en">
+                        <StreetName>
+                            <BaseName>4TA Av</BaseName>
+                            <Suffix>S</Suffix>
+                        </StreetName>
+                        <HouseNumber>N/A</HouseNumber>
+                        <CountryCode>CAN</CountryCode>
+                        <Admin>
+                            <AdminLevel>
+                                <Level1>Province</Level1>
+                                <Level2>Municipality</Level2>
+                                <Level3>City</Level3>
+                            </AdminLevel>
+                            <AdminName>
+                                <Level1>Ontario</Level1>
+                                <Level2>Ottawa</Level2>
+                                <Level3>Ottawa</Level3>
+                            </AdminName>
+                        </Admin>
+                    </Parsed>
+                </Address>
+                <GeoPositionList>
+                    <GeoPosition>
+                        <Latitude>25.25074</Latitude>
+                        <Longitude>55.3327</Longitude>
+                        <Altitude>23</Altitude>
+                    </GeoPosition>
+                </GeoPositionList>
+            </Location>
+        </LocationList>
+        <ContactList>
+            <Contact type="PHONE">
+                <ContactString>+97142951545</ContactString>
+            </Contact>
+        </ContactList>
+        <NameList>
+            <Name>
+                <TextList>
+                    <Text>
+                        <BaseText type="OFFICIAL" languageCode="en">Pizza</BaseText>
+                    </Text>
+                </TextList>
+           </Name>
+        </NameList>
+        <CategoryList>
+            <Category categorySystem="find-places">
+                <CategoryId>shop</CategoryId>
+            </Category>
+            <Category categorySystem="poi">
+                <CategoryId>9567</CategoryId>
+                <CategoryName>
+                    <Text languageCode="en">Specialty Store</Text>
+                </CategoryName>
+            </Category>
+            <Category categorySystem="places-cat">
+                <CategoryId>600-6900-0000</CategoryId>
+                <CategoryName>
+                    <Text languageCode="en">Other Shop</Text>
+                </CategoryName>
+            </Category>
+        </CategoryList>
+    </Place>
+    <Place>
+        <Identity>
+            <TimeStamp>2012-10-26T14:37:27.298Z</TimeStamp>
+            <PlaceId>784thx2m-0f20ac6176b64dec89cf23111d660807</PlaceId>
+        </Identity>
+        <LocationList>
+            <Location locationId="34606054">
+                <Address>
+                    <Parsed languageCode="en">
+                        <StreetName>
+                            <BaseName>Chekhova</BaseName>
+                            <StreetType before="true">Street</StreetType>
+                        </StreetName>
+                        <HouseNumber>33</HouseNumber>
+                        <CountryCode>RUS</CountryCode>
+                        <PostalCode></PostalCode>
+                        <Admin>
+                            <AdminLevel>
+                                <Level1>Okrug</Level1>
+                                <Level2>Rayon</Level2>
+                                <Level3>Oblast'</Level3>
+                                <Level4>City</Level4>
+                            </AdminLevel>
+                            <AdminName>
+                                <Level1>Uzniy Federalniy</Level1>
+                                <Level2>North Kaucasus</Level2>
+                                <Level3>Rostovskay Oblast'</Level3>
+                                <Level4>Taganrog</Level4>
+                            </AdminName>
+                        </Admin>
+                    </Parsed>
+                </Address>
+                <GeoPositionList>
+                    <GeoPosition>
+                        <Latitude>25.38165</Latitude>
+                        <Longitude>55.44901</Longitude>
+                    </GeoPosition>
+                </GeoPositionList>
+            </Location>
+        </LocationList>
+        <ContactList>
+            <Contact type="PHONE">
+                <ContactString>+79167463861</ContactString>
+            </Contact>
+            <Contact type="WEBADDRESS">
+                <ContactString>http://www.magnit.ru</ContactString>
+            </Contact>
+        </ContactList>
+        <NameList>
+            <Name>
+                <TextList>
+                    <Text>
+                        <BaseText type="OFFICIAL" languageCode="en">Magnit</BaseText>
+                    </Text>
+                </TextList>
+           </Name>
+        </NameList>
+        <CategoryList>
+            <Category categorySystem="find-places">
+                <CategoryId>food-drink</CategoryId>
+            </Category>
+            <Category categorySystem="poi">
+                <CategoryId>5400</CategoryId>
+                <CategoryName>
+                    <Text languageCode="en">Grocery Store</Text>
+                </CategoryName>
+            </Category>
+            <Category categorySystem="places-cat">
+                <CategoryId>600-6300-0066</CategoryId>
+                <CategoryName>
+                    <Text languageCode="en">Grocery</Text>
+                </CategoryName>
+            </Category>
+        </CategoryList>
+    </Place>
+    <Place>
+        <Identity>
+            <TimeStamp>2012-10-26T14:38:49.161Z</TimeStamp>
+            <PlaceId>784thrpp-ab8f18a1e93842c5856c31d5f062fb1d</PlaceId>
+        </Identity>
+        <LocationList>
+            <Location locationId="65434823">
+                <Address>
+                    <Parsed languageCode="en">
+                        <StreetName>
+                            <BaseName>Jumeirah Beach Road</BaseName>
+                        </StreetName>
+                        <CountryCode>ARE</CountryCode>
+                        <PostalCode></PostalCode>
+                        <Admin>
+                            <AdminLevel>
+                                <Level3>City</Level3>
+                                <Level4>Zone</Level4>
+                            </AdminLevel>
+                            <AdminName>
+                                <Level3>Dubai</Level3>
+                                <Level4>Jumeirah</Level4>
+                            </AdminName>
+                        </Admin>
+                    </Parsed>
+                </Address>
+                <GeoPositionList>
+                    <GeoPosition>
+                        <Latitude>25.171406</Latitude>
+                        <Longitude>55.190807</Longitude>
+                    </GeoPosition>
+                </GeoPositionList>
+            </Location>
+        </LocationList>
+        <ContactList>
+            <Contact type="PHONE">
+                <ContactString>+97144068999</ContactString>
+            </Contact>
+            <Contact type="EMAIL">
+                <ContactString>jbhboxoffice@jumeirah.com</ContactString>
+            </Contact>
+            <Contact type="WEBADDRESS">
+                <ContactString>http://www.jumeirah.com</ContactString>
+            </Contact>
+        </ContactList>
+        <NameList>
+            <Name>
+                <TextList>
+                    <Text>
+                        <BaseText type="OFFICIAL" languageCode="en">Uptown Bar</BaseText>
+                    </Text>
+                </TextList>
+           </Name>
+        </NameList>
+        <CategoryList>
+            <Category categorySystem="find-places">
+                <CategoryId>Restaurant</CategoryId>
+            </Category>
+            <Category categorySystem="places-cat">
+                <CategoryId>100-1000-0000</CategoryId>
+                <CategoryName>
+                    <Text languageCode="en">Other Restaurant</Text>
+                </CategoryName>
+            </Category>
+        </CategoryList>
+    </Place>
+</PlaceList>
